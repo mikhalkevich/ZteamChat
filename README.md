@@ -6,6 +6,13 @@
   ![stars](https://img.shields.io/github/stars/Z-Team-Pro/ZTeam-Chat.svg)
   ![forks](https://img.shields.io/github/forks/Z-Team-Pro/ZTeam-Chat.svg)
   
+- git clone https://github.com/mikhalkevich/ZteamChat.git
+- cd ZTeam-Chat
+- npm i
+- npm install -g zteam-chat
+- zteam-chat
+- http://localhost:9000
+
 
 This Package is a simple real time Chat app 
 Where you can use it in your porject as a real time room chating 
